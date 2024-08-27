@@ -20,7 +20,7 @@ author: Shelby
 
 environment: prod
 
-url: 'https://proofedbyshelby.com'
+url: 'https://shelbypbs.github.io'
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This URL points directly to the images directory making
@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://proofedbyshelby.com/images/'
+urlimg: 'https://shelbypbs.github.io/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

@@ -32,7 +32,7 @@ calltoaction:
 \*Payment plans are available. 
 
 ### What services do you offer?
-I offer proofreading, line editing, and copyediting services. I can do developmental edits, but they are not what I feel I am best at. More details about my services are <a href="/proofedbyshelby/services">here</a>.
+I offer proofreading, line editing, and copyediting services. I can do developmental edits, but they are not what I feel I am best at. More details about my services are <a href="/services">here</a>.
 
 ### What types of writing do you work with?
 I am open to working on a variety of documents. In the past, I have worked on: poetry collections, marketing reports, academic journal articles, research papers, blog posts, curriculums for non-profits, math curriculums, religious nonfiction, and short stories.
@@ -40,8 +40,8 @@ I am open to working on a variety of documents. In the past, I have worked on: p
 As a former middle school teacher, I have extensive experience with middle-grade novels and curriculum creation.
 
 ### How much do you charge?
-This varies greatly based on the type of project and its length. The Editorial Freelancers Association (EFA) has put together <a href="https://www.the-efa.org/rates/" target="_blank">a list of recommended rates</a> that I follow. Depending on what you need, my prices range from $.01 to $.03 per word. To find out about your project specifically, <a href="/proofedbyshelby/contact">contact me!</a>
+This varies greatly based on the type of project and its length. The Editorial Freelancers Association (EFA) has put together <a href="https://www.the-efa.org/rates/" target="_blank">a list of recommended rates</a> that I follow. Depending on what you need, my prices range from $.01 to $.03 per word. To find out about your project specifically, <a href="/contact">contact me!</a>
 
 ### What is your turnaround time?
-Again, this depends on the size of your project and what other projects I am working on at the time. If you want, you can fill out this form and I can let you know what I can do for your project!
+Again, this depends on the size of your project and what other projects I am working on at the time. If you want, you can fill out <a href="/services">this form</a> and I can let you know what I can do for your project!
 

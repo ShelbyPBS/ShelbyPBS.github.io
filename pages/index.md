@@ -48,8 +48,8 @@ homepage: true
 ---
 
 
-<b>Proofed By Shelby:</b> your trusted partner for professional proofreading and editing services.
+Are you looking for a trusted partner for your editing and proofreading needs?
 
-I can save you time and enhance your credibility, whether it's fiction, nonfiction, academic papers, business reports, online course creation, or website content.
+An editor or proofreader can save you time and enhance your credibility, whether you write fiction, nonfiction, academic papers, business reports, website content, or create online courses.
 
 I am dedicated to helping individuals and businesses elevate the quality of their written content. With my attention to detail and expertise in grammar, spelling, and punctuation, I can help you create content that is error-free and polished.

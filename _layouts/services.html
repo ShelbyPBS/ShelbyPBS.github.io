@@ -1,0 +1,46 @@
+---
+layout: default
+format: post
+---
+<div class="row t30">
+	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+
+				<div itemprop="name">
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1>{{ page.title }}</h1>
+				</div>
+			</header>
+
+
+			{% if page.teaser %}
+			<p class="teaser" itemprop="description">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+			<div itemprop="articleSection">
+			{{ content }}
+			</div>
+
+			{% for service_item in site.data.services %}
+              {% include _services-widget.html widget=service_item %}
+      {% endfor %}
+
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
+
+			{% if page.comments == true %}
+			{% include _comments.html %}
+			{% endif %}
+		</article>
+
+{% if page.calltoaction %}
+  {% include _call-to-action.html widget=page.calltoaction %}
+{% endif %}
+
+	</div><!-- /.medium-8.columns -->
+
+</div><!-- /.row -->

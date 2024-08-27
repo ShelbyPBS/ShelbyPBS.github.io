@@ -1,0 +1,12 @@
+<div class="services-spotlight-feature">
+  {% if include.widget.fa-icon != empty %}
+    <div class="services-spotlight-icon">
+      <i class= "fa {{ include.widget.fa-icon }} fa-5x" aria-hidden="true"></i>
+    </div>
+  {% endif %}
+  <div class="services-spotlight-text">
+    <h2 class="font-size-h3 t10">{{ include.widget.service }}</h2>
+    {% assign paragraphs = include.widget.description | newline_to_br | split: '<br />' %}
+    {% for paragraph in paragraphs %}<p>{{ paragraph }}</p>{% endfor %}
+  </div>
+</div>

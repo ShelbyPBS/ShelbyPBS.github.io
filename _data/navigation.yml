@@ -1,0 +1,27 @@
+- title: Proofed By Shelby
+  url: "/"
+  side: left
+
+- title: Services
+  url: "/services/"
+  side: left
+
+- title: Testimonials
+  url: "/testimonials/"
+  side: left
+
+- title: FAQ
+  url: "/faq/"
+  side: left
+
+- title: DIY Proofreading
+  url: "/free-checklists/"
+  side: left
+
+- title: About
+  url: "/about/"
+  side: left
+
+- title: "Contact"
+  url: "/contact/"
+  side: left

@@ -1,0 +1,25 @@
+# To add a service, copy and paste one of the items in this list and edit the contents.
+# To delete a service, remove the whole bullet point.
+# To change the icon that shows, find a new icon at https://fontawesome.com/v4/icons/ and copy the 
+#   tag that appears under the icon.  For example, https://fontawesome.com/v4/icon/address-book-o
+#   would be 'fa-address-book-o'
+
+- service: Line Editing
+  fa-icon: fa-list
+  description: For line editing, I will look at your document line by line, focusing on word choice, clarity, voice/tone, organization, and factual accuracy. This service starts at 3 cents/word.
+
+- service: Copyediting
+  fa-icon: fa-file-text-o 
+  description: This focuses on your document as a whole, and makes edits regarding the English language and the specific style guide. This service starts at 3 cents/word.
+
+- service: Proofreading
+  fa-icon: fa-pencil-square-o
+  description: I can proofread your writing to remove spelling, grammar, and typing errors. This service starts at 2 cents /word.
+
+- service: Course Content Creation
+  fa-icon: fa-graduation-cap
+  description: >
+    As a teacher, I helped edit and create various curriculums. I can use this knowledge of scaffolding and curriculum organization to help you create an engaging and informative online course.
+
+    We can work together from the ground up, or you can have me review a course you have already created. Cost is dependent on the length of the course and how much input you want to receive.
+

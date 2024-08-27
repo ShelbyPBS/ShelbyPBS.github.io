@@ -1,0 +1,15 @@
+- name: Facebook
+  url: https://facebook.com/profile.php?id=61551224662844
+  class: icon-facebook
+  title: ""
+
+- name: Instagram
+  url: https://instagram.com/proofedbyshelby
+  class: icon-instagram
+  title: ""
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/shelby-harbour-37301812b/
+  class: icon-linkedin
+  title: ""
+

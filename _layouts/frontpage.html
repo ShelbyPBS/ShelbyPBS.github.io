@@ -1,0 +1,48 @@
+---
+layout: default
+format: frontpage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+<div class="row t30">
+	<div class="medium-8 columns medium-offset-2 end">
+			{{ content }}
+	</div><!-- /.medium-8.columns -->
+</div>
+
+{% if page.calltoaction1 %}
+  {% include _call-to-action.html widget=page.calltoaction1 %}
+{% endif %}
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row">
+	<div class="small-12 columns" style="text-align: center;">
+        <h5>{{ page.widget_intro }}</h5>
+    </div>
+</div>
+<div class="row">
+	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+
+{% if page.calltoaction2 %}
+  {% include _call-to-action.html widget=page.calltoaction2 %}
+{% endif %}

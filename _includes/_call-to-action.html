@@ -1,0 +1,15 @@
+
+{% if include.widget.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+    <div class="row">
+        <div class="small-12 text-center columns">
+            {% if include.widget.text != empty %} 
+            <p><h5>{{include.widget.text}}</h5></p>
+            {% endif %}
+
+            <a class="button medium radius {{ include.widget.style }}" href="{{ url }}{{ include.widget.url }}"{% if include.widget.url contains 'http' %} target="_blank" {% endif %}>{{ include.widget.buttontext }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->

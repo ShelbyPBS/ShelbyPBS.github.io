@@ -1,0 +1,30 @@
+# To add a checklist, copy and paste one of the items in this list and edit the contents.
+# To delete a service, remove the whole bullet point.
+# To change the icon that shows, find a new icon at https://fontawesome.com/v4/icons/ and copy the 
+#   tag that appears under the icon.  For example, https://fontawesome.com/v4/icon/address-book-o
+#   would be 'fa-address-book-o'
+
+- name: Blog Proofreading Checklist
+  fa-icon: fa-pencil-square-o
+  url: https://docs.google.com/document/d/1Tj4o5ElT7gvqpcz9aQpYxJbcJ2QszgBxxX_sj4IUwqI/edit?usp=drive_link
+
+- name: Business Materials Checklist
+  fa-icon: fa-briefcase
+  url: https://docs.google.com/document/d/1-4XhrQrdm_kSHR2JIZgHRoSRFsdNzeLgQJBB6_xqJ88/edit?usp=drive_link
+
+- name: General Proofreading Checklist
+  fa-icon: fa-list
+  url: https://docs.google.com/document/d/19Sg-rc0ipfWQq4lS3cAE4dCveG25USjXYuC4GynMoto/edit?usp=drive_link
+
+- name: Social Media Proofreading Checklist
+  fa-icon: fa-hashtag
+  url: https://docs.google.com/document/d/17JxDB2sFcflvppzLF7TXLBEIJq5F4AAcuS7mYvIzQfI/edit?usp=drive_link
+
+- name: Academic Writing Checklist
+  fa-icon: fa-graduation-cap
+  url: https://docs.google.com/document/d/1dZJLZGrDYg01jq_moJgx08XGknufVq2L8JVaxuyZHCM/edit?usp=drive_link
+
+- name: Book Proofreading Checklist
+  fa-icon: fa-book
+  url: ahttps://docs.google.com/document/d/1Om2A0cGn0OssUmtPVhL56o0pGE4ktiviDZrjxfQALaw/edit?usp=drive_link
+

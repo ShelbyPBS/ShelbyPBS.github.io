@@ -35,6 +35,8 @@ urlimg: 'https://proofedbyshelby.com/images/'
 logo: "logo.png"
 nav-logo: "nav-logo.png"
 
+favicon-32x32                        : 'favicon-32x32.png'
+
 sass:
     sass_dir : _sass
     style    : :compressed

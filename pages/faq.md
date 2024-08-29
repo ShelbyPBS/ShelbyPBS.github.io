@@ -43,5 +43,5 @@ As a former middle school teacher, I have extensive experience with middle-grade
 This varies greatly based on the type of project and its length. The Editorial Freelancers Association (EFA) has put together <a href="https://www.the-efa.org/rates/" target="_blank">a list of recommended rates</a> that I follow. Depending on what you need, my prices range from $.01 to $.03 per word. To find out about your project specifically, <a href="/contact">contact me!</a>
 
 ### What is your turnaround time?
-Again, this depends on the size of your project and what other projects I am working on at the time. If you want, you can fill out <a href="/services">this form</a> and I can let you know what I can do for your project!
+Again, this depends on the size of your project and what other projects I am working on at the time. If you want, you can fill out <a href="/contact">this form</a> and I can let you know what I can do for your project!
 

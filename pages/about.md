@@ -13,7 +13,7 @@ Welcome to {{ site.title }}! My name is Shelby Harbour, and I am an English teac
 
 I spent ten years in the classroom, six in the US and four in Prague, Czech Republic. As an English teacher, I got to work closely with students and their writing. We spent countless hours developing ideas, putting those ideas down on paper, and then looking back over the writing with a critical eye to ensure it was error-free with clearly conveyed ideas. 
 
-While teaching in Prague, I had the opportunity to do some proofreading work for a local NGO. This opened my eyes to the possiblity of proofreading as a career, and led me to take Knowadays' Proofreading and Editing courses. 
+While teaching in Prague, I had the opportunity to do some proofreading work for a local NGO. This opened my eyes to the possibility of proofreading as a career, and led me to take Knowadays' Proofreading and Editing courses. 
 
 Since then, I have had the opportunity to proofread and edit blog posts, academic journal articles, poetry collections, short stories, marketing reports, online course curriculums, religious nonfiction, and more!
 

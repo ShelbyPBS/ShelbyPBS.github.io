@@ -2,11 +2,11 @@
 # SITE SETTINGS
 #
 
-title: Proofed By Shelby
+title: Jump Off The Page Editing
 
 name: Shelby Harbour
 
-email: proofedbyshelby@gmail.com
+email: jumpoffthepageediting@gmail.com
 
 slogan: Enhance Your Writing
 
@@ -20,7 +20,7 @@ author: Shelby
 
 environment: prod
 
-url: 'https://proofedbyshelby.com'
+url: 'https://jumpoffthepageediting.com'
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This URL points directly to the images directory making
@@ -29,10 +29,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://proofedbyshelby.com/images/'
+urlimg: 'https://jumpoffthepageediting.com/images/'
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo-blob.png"
 nav-logo: "nav-logo.png"
 
 favicon-32x32                        : 'favicon-32x32.png'

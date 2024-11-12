@@ -48,4 +48,8 @@ homepage: true
 ---
 
 
-Welcome to Jump Off The Page Editing, where my mission is to make your words stand out for all the right reasons. I believe that every piece of writing has a unique voice and potential. My approach to editing is encouraging and collaborative—I'm here to refine your work without judgment or prescriptive rules. Instead, I focus on clarity, coherence, and flow to let your message shine. Whether you’re working on a novel, a business document, or any project in between, I'm here to support your writing journey and help you communicate with confidence.
+Welcome to Jump Off The Page Editing, where my mission is to make your words stand out for all the right reasons!
+
+I believe that every piece of writing has a unique voice and potential. My approach to editing is encouraging and collaborative—I'm here to refine your work without judgment or prescriptive rules. Instead, I focus on clarity, coherence, and flow to let your message shine. 
+
+Whether you’re working on a novel, a business document, or any project in between, I'm here to support your writing journey and help you communicate with confidence.

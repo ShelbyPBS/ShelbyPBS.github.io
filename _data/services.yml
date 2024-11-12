@@ -6,20 +6,20 @@
 
 - service: Line Editing
   fa-icon: fa-list
-  description: For line editing, I will look at your document line by line, focusing on word choice, clarity, voice/tone, organization, and factual accuracy. This service starts at 3 cents/word.
+  description: Worried that your writing doesn't quite capture the tone or impact you're aiming for? Line editing can help. A line edit looks at each sentence to enhance clarity, style, and flow, ensuring your voice comes through clearly and powerfully. This service is perfect if you want your writing to resonate with readers without losing your unique personality! This service starts at 3 cents/word.
 
 - service: Copyediting
   fa-icon: fa-file-text-o 
-  description: This focuses on your document as a whole, and makes edits regarding the English language and the specific style guide. This service starts at 3 cents/word.
+  description: Worried about errors or inconsistencies in your work that could distract your audience? Copyediting can help by addressing grammar, punctuation, and style consistency so your message is clean, polished, and professional. Copyediting can give you confidence that your writing is accurate and ready for your readers! This service starts at 2 cents/word.
 
 - service: Proofreading
   fa-icon: fa-pencil-square-o
-  description: I can proofread your writing to remove spelling, grammar, and typing errors. This service starts at 2 cents /word.
+  description: Ready to publish but want reassurance that there are no overlooked mistakes? Proofreading can provide that final quality check. My proofreading service combs through your text to catch any remaining typos, punctuation errors, and minor inconsistencies, giving you a distraction-free finish that lets your content shine! This service starts at 1 cent/word.
 
-- service: Course Content Creation
+- service: Course Content Review
   fa-icon: fa-graduation-cap
   description: >
-    As a teacher, I helped edit and create various curriculums. I can use this knowledge of scaffolding and curriculum organization to help you create an engaging and informative online course.
+    Worried that your course content isn't organized? Worried that distracting errors will make your students question your credibility? My course content review focuses on structuring your material for easy comprehension, ensuring your course is clear and supportive for learners. This service helps you deliver content that's not only educational but also engaging and effective! Cost is dependent on the length of the course and how much input you want to receive.
 
-    We can work together from the ground up, or you can have me review a course you have already created. Cost is dependent on the length of the course and how much input you want to receive.
+ 
 

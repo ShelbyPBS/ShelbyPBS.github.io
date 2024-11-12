@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   title: Enhance Your Writing
-  caption: Professional proofreading and editing services to improve your written content.
+  caption: Professional editing services to improve your written content.
   image_fullwidth: header_main.png
 footer:
   image_fullwidth: header_2.png

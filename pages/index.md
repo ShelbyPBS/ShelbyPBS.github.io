@@ -14,13 +14,13 @@ footer:
 widget_intro: "Want to learn more about the services I offer? Here's what I can bring to your project:"
 widget1:
   title: "Error-free writing"
-  text: 'Having a proofreader and editor look over your content means you do not have to worry about mistakes turning away potential clients or readers.'
+  text: 'At Jump Off The Page Editing, I help make your writing polished and professional by catching the details that matter—grammar, punctuation, and consistency. My careful edits ensure that your message shines through without distractions, letting your audience stay focused on what you have to say.'
 widget2:
   title: "Organized content"
-  text: "Stand out with compelling content organized in a logical manner. When an editor reads your writing with a fresh set of eyes, they can ensure your content is organized in a way that makes sense for your intended audience."
+  text: "Strong organization brings clarity and flow to your writing, guiding readers through your message with ease. At Jump Off The Page Editing, I help shape and structure your content, ensuring ideas are presented logically and transitions are smooth. By enhancing the overall flow, you make it easy for readers to engage with and understand your work, letting your ideas shine in a way that resonates."
 widget3:
   title: "Enhanced credibility"
-  text: "You have spent countless hours on your craft or business and you know that you are a qualified expert. However, having even minor mistakes in your materials can make people doubt your credibility. Using a proofreader or editor can help to maintain your professional credibility. "
+  text: "Error-free, well-organized writing builds trust and authority. At Jump Off The Page Editing, I can help ensure your work is polished and professional, so it reflects the expertise and care you bring to your ideas. Through careful editing, you can present your message with accuracy and clarity, enhancing your credibility and making a strong, lasting impression on your readers. "
 #
 # Use the call for action to show a button on the frontpage
 #

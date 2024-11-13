@@ -9,15 +9,14 @@ header:
 footer:
     image_fullwidth: "header_4.png"
 ---
-Welcome to {{ site.title }}! My name is Shelby Harbour, and I am an English teacher turned proofreader and editor. 
+Welcome to {{ site.title }}! I’m Shelby Harbour, a former English teacher turned editor who swapped classrooms for a home office and whiteboards for a digital pen. Over a decade of teaching—six years in the U.S. and four in the cobblestone charm of Prague—I honed my craft helping students bring their ideas to life through writing. My students and I spent countless hours carefully choosing words, clarifying thoughts, and poring over every detail to make sure each sentence sparkled.
 
-I spent ten years in the classroom, six in the US and four in Prague, Czech Republic. As an English teacher, I got to work closely with students and their writing. We spent countless hours developing ideas, putting those ideas down on paper, and then looking back over the writing with a critical eye to ensure it was error-free with clearly conveyed ideas. 
+While in Prague, a chance opportunity to proofread for a local NGO opened my eyes to a whole new career path. Two courses with Knowadays later, and I was hooked on editing. Since then, I’ve had the privilege of working with clients on a diverse range of projects—from religious nonfiction and online articles to poetry collections and online course content.
 
-While teaching in Prague, I had the opportunity to do some proofreading work for a local NGO. This opened my eyes to the possibility of proofreading as a career, and led me to take Knowadays' Proofreading and Editing courses. 
+There’s nothing I love more than helping clients make their words jump off the page (for all the right reasons, of course)!
 
-Since then, I have had the opportunity to proofread and edit blog posts, academic journal articles, poetry collections, short stories, marketing reports, online course curriculums, religious nonfiction, and more!
+When I’m not fine-tuning sentences, you’ll probably find me savoring a bowl of queso or binge-watching K-dramas—because even editors need their guilty pleasures!
 
-I thoroughly enjoy working with my clients to make their written content the absolute best it can be!
 
 ## Trainings and Professional Memberships
 

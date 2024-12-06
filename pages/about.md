@@ -33,3 +33,7 @@ AI will not be used to:
 * Replace my role as your editor
 * Analyze any of your content without your permission
 * Make editorial changes without being reviewed by me (e.g., Grammarly)
+
+AI may be used to:
+* Do a pre-edit check for spelling, punctuation, or typos allowing me to focus on clarity, consistency, reader experience, and conciseness (e.g., Grammarly)
+* Give me ideas for social media content

@@ -25,3 +25,4 @@ When I’m not fine-tuning sentences, you’ll probably find me savoring a bowl 
 * Poynter ACES Introductory Certificate in Editing (completed April 2024)
 * Member of ACES: The Society for Editing (since April 2024)
 
+## AI Policy

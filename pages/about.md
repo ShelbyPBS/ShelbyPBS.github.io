@@ -8,6 +8,10 @@ header:
     image_fullwidth: "header_3.png"
 footer:
     image_fullwidth: "header_4.png"
+calltoaction:
+  text: Need more information?
+  url: /contact
+  buttontext: Contact Me!
 ---
 Welcome to {{ site.title }}! I’m Shelby Harbour, a former English teacher turned editor who swapped classrooms for a home office and whiteboards for a digital pen. Over a decade of teaching—six years in the U.S. and four in the cobblestone charm of Prague—I honed my craft helping students bring their ideas to life through writing. My students and I spent countless hours carefully choosing words, clarifying thoughts, and poring over every detail to make sure each sentence sparkled.
 

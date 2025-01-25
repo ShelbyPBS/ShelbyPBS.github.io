@@ -47,10 +47,18 @@ format: post
 			{% include _comments.html %}
 			{% endif %}
 		</article>
+
+
+
 	</div><!-- /.medium-8.columns -->
 
 
 	<div class="medium-4 columns">
           <img src="{{ site.urlimg }}{{ page.side-image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
 	</div><!-- /.medium-4.columns -->
+
+ 		{% if page.calltoaction %}
+  			{% include _call-to-action.html widget=page.calltoaction %}
+		{% endif %}
+
 </div><!-- /.row -->

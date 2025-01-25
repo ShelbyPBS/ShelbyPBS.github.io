@@ -25,3 +25,15 @@ When I’m not fine-tuning sentences, you’ll probably find me savoring a bowl 
 * Poynter ACES Introductory Certificate in Editing (completed April 2024)
 * Member of ACES: The Society for Editing (since April 2024)
 
+## AI Policy
+
+While AI has the potential to assist me in my work, it does have limits and concerns. Here is a breakdown of how AI is and is not used at Jump Off The Page Editing.
+
+AI will not be used to:
+* Replace my role as your editor
+* Analyze any of your content without your permission
+* Make editorial changes without being reviewed by me (e.g., Grammarly)
+
+AI may be used to:
+* Do a pre-edit check for spelling, punctuation, or typos allowing me to focus on clarity, consistency, reader experience, and conciseness (e.g., Grammarly)
+* Give me ideas for social media content

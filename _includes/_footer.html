@@ -26,7 +26,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            {{ site.credits }}
+            <p>&copy; {{ site.time | date: '%Y' }} {{site.title}}. {{ site.credits }}</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-3 columns">

@@ -6,6 +6,17 @@
 
 
     <footer id="footer-content" class="bg-grau">
+
+      <div id="newsletter-footer">
+
+        <div class="row">
+
+          {% include _newsletter.html %}
+
+        </div><!-- /.row -->
+
+      </div><!-- /#newsletter-footer -->
+
       <div id="footer">
 
         <div class="row">
@@ -26,7 +37,9 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>&copy; {{ site.time | date: '%Y' }} {{site.title}}. {{ site.credits }}</p>
+            <p>&copy; {{ site.time | date: '%Y' }} {{site.title}}. {{ site.credits }}
+            </br>
+            <a href="{{ site.url }}{{ site.baseurl }}/privacy-policy/">Privacy Policy</a>  |  <a href="{{ site.url }}{{ site.baseurl }}/terms-and-conditions/">Terms & Conditions</a></p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-3 columns">

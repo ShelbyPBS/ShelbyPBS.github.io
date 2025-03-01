@@ -30,8 +30,8 @@ $ci-1               : #719e6f; // dark green
 $ci-2               : #cce2cb; // pastel green
 $ci-3               : #6c9494; // dark blue
 $ci-4               : #d7efef; // pastel blue
-$ci-5               : #DF4949; // red
-$ci-6               : #A1D044; // green
+$ci-5               : #ddeddd; // pale green
+$ci-6               : #f8ffff; // pale blue
 
 
 
@@ -115,6 +115,11 @@ $footer-link-color  : $ci-1;
 $subfooter-bg       : $ci-1;
 $subfooter-color    : $ci-2;
 $subfooter-link-color: $ci-4;
+
+
+$newsletter-footer-bg          : $ci-5;
+$newsletter-footer-color       : $ci-2;
+$newsletter-footer-link-color  : $ci-4;
 
 
 

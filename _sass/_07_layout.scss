@@ -245,7 +245,6 @@
 }
 
 
-
 /* Footer
 ------------------------------------------------------------------- */
 
@@ -317,6 +316,32 @@
     }
   }
 }
+
+
+/* Newsletter Footer
+------------------------------------------------------------------- */
+
+#newsletter-footer-content p,
+#newsletter-footer-content li {
+    font-size: rem-calc(13);
+    font-weight: 300;
+}
+
+#newsletter-footer {
+    background: $newsletter-footer-bg;
+    color: $newsletter-footer-color;
+    }
+
+    #newsletter-footer a {
+        color: $newsletter-footer-link-color;
+    }
+    #newsletter-footer h4,
+    #newsletter-footer h5 {
+        letter-spacing: 1px;
+        color: #fff;
+        text-transform: uppercase;
+    }
+
 
 
 

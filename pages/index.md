@@ -33,7 +33,7 @@ widget3:
 #
 calltoaction1:
   url: /contact
-  buttontext: Contact me for a free quote!
+  buttontext: Request a sample edit
 
 calltoaction2:
   url: /services

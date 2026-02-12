@@ -1,5 +1,8 @@
 # Shelby's Website
 ## Notes for Shelby
+
+**NOTE** Until February 4th, 2027, go to https://github.com/kaitersgonnakait/ShelbyPBS.github.io instead to make edits to the website.
+
 ### How to make edits to the website
 The pages are written using a syntax called Markdown.  Here are more details about how to edit formatting: https://www.markdownguide.org/basic-syntax/
 
